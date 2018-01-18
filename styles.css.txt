@@ -1,0 +1,60 @@
+
+
+
+ body{
+ 	padding-top:40px;
+ 	font-family:sans-serif;
+
+ }
+
+#my-navbar{
+	background-color:#2c3e50;  //navyblue
+	//border-color:#b84d45;
+	
+}
+
+#my-navbar ul li > a {
+	color:#ffffff;
+	
+}
+
+#my-navbar li a:hover{
+	background-color:green;
+	
+
+
+}
+
+.navbar-brand {
+	color:#e8491d;
+	font-weight:700;
+	font-family:arial;
+	
+}
+
+
+ }
+
+.highlight{
+   color:#00A859;
+   
+}
+
+
+address{
+	color:black;
+}
+
+.form-control{
+	border:1px solid blue;
+	border-radius:2px solid blue;
+}
+
+footer {
+	background-color:#c3d7d7;
+
+
+}
+footer .list-inline > li{
+	color:#2c3e50;
+}
